@@ -1,4 +1,4 @@
-# 🧮 Curso SQL  
+# 🧮 Tutorial SQL  
 **Fundamentos de Bases de Datos, Consultas en SQL y Uso con Python**
 
 Este repositorio contiene el material del curso **SQL**, enfocado en:
